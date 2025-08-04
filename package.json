@@ -78,7 +78,7 @@
     "@eslint/eslintrc": "^3.3.1",
     "@eslint/js": "^9.32.0",
     "@types/busboy": "^1.5.4",
-    "@types/express": "^5.0.2",
+    "@types/express": "^5.0.3",
     "@types/express-session": "^1.18.1",
     "@types/mocha": "10.0.10",
     "@types/node": "^22.15.21",
