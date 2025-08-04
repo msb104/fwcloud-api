@@ -104,7 +104,7 @@
     "nodemon": "^3.1.10",
     "prettier": "^3.6.2",
     "sinon": "19.0.5",
-    "supertest": "7.1.1",
+    "supertest": "7.1.4",
     "typescript": "^5.8.3"
   },
   "lint-staged": {
