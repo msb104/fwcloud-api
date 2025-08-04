@@ -102,7 +102,7 @@
     "lint-staged": "^15.5.2",
     "mocha": "^10.8.2",
     "nodemon": "^3.1.10",
-    "prettier": "^3.5.3",
+    "prettier": "^3.6.2",
     "sinon": "19.0.5",
     "supertest": "7.1.1",
     "typescript": "^5.8.3"
